@@ -6,6 +6,7 @@
 
 <template>
   <div class=""> home {{ store.count }} </div>
+  <van-button type="primary">窝似Vant的按钮</van-button>
 </template>
 <style lang="scss" scoped>
   .test {
